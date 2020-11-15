@@ -42,6 +42,7 @@
  ![version](https://img.shields.io/badge/ninja-1.10.0-blue)
  ![version](https://img.shields.io/badge/opencv-4.1.2-blue)
 </br>
+</br>
 
 ## Schedule Management
 
